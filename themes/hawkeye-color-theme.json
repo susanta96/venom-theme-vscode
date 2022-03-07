@@ -89,7 +89,7 @@
     "activityBarBadge.foreground": "#231622",
 
     // Side Bar
-    "sideBar.background": "#231622",
+    "sideBar.background": "#250d32",
     "sideBar.foreground": "#8695b7",
     // "sideBar.border": "#1d2433",
     "sideBarTitle.foreground": "#ebdc3a",
@@ -101,10 +101,10 @@
     "editorGroup.border": "#2f3b54",
     "editorGroup.dropBackground": "#2f3b54",
     "editorGroupHeader.noTabsBackground": "#1d2433",
-    "editorGroupHeader.tabsBackground": "#231622",
+    "editorGroupHeader.tabsBackground": "#250d32",
     "editorGroupHeader.tabsBorder": "#231622",
-    "editorGroup.emptyBackground": "#1d2433",
-    "editorGroup.focusedEmptyBorder": "#1d2433",
+    "editorGroup.emptyBackground": "#250d32",
+    "editorGroup.focusedEmptyBorder": "#250d32",
 
     // Tabs
     "tab.activeBackground": "#1d2433",
@@ -130,7 +130,7 @@
     "editorPane.background": "#353d4e",
 
     // Editor colors
-    "editor.background": "#1d2433",
+    "editor.background": "#250d32",
     "editor.foreground": "#a2aabc",
     "editorLineNumber.foreground": "#8695b755",
     "editorLineNumber.activeForeground": "#8695b7",
@@ -257,7 +257,7 @@
     "editorOverviewRuler.commonContentForeground": "#2f3b54",
 
     // Panel colors
-    "panel.background": "#20064f",
+    "panel.background": "#2c2925",
     "panel.border": "#1d2433",
     "panel.dropBorder": "#2f3b54",
     "panelTitle.activeBorder": "#ebdc3a",
@@ -316,10 +316,10 @@
     "pickerGroup.border": "#2f3b54",
     "pickerGroup.foreground": "#ebdc3a",
 
-    // Integrated Terminal colors
-    "terminal.background": "#bca494",
-    "terminal.border": "#7b5baa",
-    "terminal.foreground": "#41444b",
+    // Integrated Terminal colors 
+    "terminal.background": "#2c2925",
+    "terminal.border": "#534d38",
+    "terminal.foreground": "#ccb484",
     "terminal.ansiBlack": "#2f3b54",
     "terminal.ansiBlue": "#edddaf",
     "terminal.ansiBrightBlue": "#edddaf",
