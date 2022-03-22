@@ -31,11 +31,11 @@
     "dropdown.foreground": "#d7dce2",
 
     // Input control
-    "input.background": "#1d2433",
-    "input.border": "#2f3b54",
-    "input.foreground": "#d7dce2",
-    "input.placeholderForeground": "#83549a99",
-    "inputOption.activeBorder": "#2f3b54",
+    "input.background": "#3C404E",
+    "input.border": "#3C404E",
+    "input.foreground": "#DFDFDF",
+    "input.placeholderForeground": "#DFDFDF",
+    "inputOption.activeBorder": "#3C404E",
     "inputValidation.errorBackground": "#1d2433",
     "inputValidation.errorForeground": "#ec2226",
     "inputValidation.errorBorder": "#ec2226",
@@ -53,8 +53,8 @@
     "scrollbarSlider.hoverBackground": "#8695b799",
 
     // Badge
-    "badge.foreground": "#1d2433",
-    "badge.background": "#ebdc3a",
+    "badge.foreground": "#DFDFDF",
+    "badge.background": "#0C13E7",
 
     // Progress bar
     "progressBar.background": "#ebdc3a",
@@ -80,13 +80,13 @@
     "tree.indentGuidesStroke": "#2f3b54",
 
     // Activity Bar
-    "activityBar.background": "#20064f",
-    "activityBar.dropBorder": "#2f3b54",
-    "activityBar.foreground": "#8695b7",
-    "activityBar.inactiveForeground": "#8695b799",
+    "activityBar.background": "#11141E",
+    "activityBar.dropBorder": "#13F8FE",
+    "activityBar.foreground": "#AAF5F6",
+    "activityBar.inactiveForeground": "#8B9EB7",
     "activityBar.border": "#231622",
-    "activityBarBadge.background": "#ebdc3a",
-    "activityBarBadge.foreground": "#231622",
+    "activityBarBadge.background": "#0C13E7",
+    "activityBarBadge.foreground": "#DFDFDF",
 
     // Side Bar
     "sideBar.background": "#250d32",
@@ -257,16 +257,16 @@
     "editorOverviewRuler.commonContentForeground": "#2f3b54",
 
     // Panel colors
-    "panel.background": "#2c2925",
-    "panel.border": "#1d2433",
+    "panel.background": "#11141E",
+    "panel.border": "#11141E",
     "panel.dropBorder": "#2f3b54",
-    "panelTitle.activeBorder": "#ebdc3a",
-    "panelTitle.activeForeground": "#d7dce2",
+    "panelTitle.activeBorder": "#13F8FE",
+    "panelTitle.activeForeground": "#AAF5F6",
     "panelTitle.inactiveForeground": "#8695b7",
     "panelInput.border": "#8695b7",
     "panelSection.border": "#2f3b54",
     "panelSection.dropBackground": "#2f3b54",
-    "panelSectionHeader.background": "#1d2433",
+    "panelSectionHeader.background": "#11141E",
     "panelSectionHeader.foreground": "#ebdc3a",
 
     // Status Bar colors
@@ -317,28 +317,28 @@
     "pickerGroup.foreground": "#ebdc3a",
 
     // Integrated Terminal colors 
-    "terminal.background": "#2c2925",
+    "terminal.background": "#11141E",
     "terminal.border": "#534d38",
-    "terminal.foreground": "#ccb484",
-    "terminal.ansiBlack": "#2f3b54",
-    "terminal.ansiBlue": "#edddaf",
-    "terminal.ansiBrightBlue": "#edddaf",
-    "terminal.ansiBrightCyan": "#edddaf",
+    "terminal.foreground": "#DFDFDF",
+    "terminal.ansiBlack": "#3C404E",
+    "terminal.ansiBlue": "#0C13E7",
+    "terminal.ansiBrightBlue": "#0C13E7",
+    "terminal.ansiBrightCyan": "#13F8FE",
     "terminal.ansiBrightGreen": "#bae67e",
     "terminal.ansiBrightBlack": "#444a5e",
     "terminal.ansiBrightMagenta": "#c3a6ff",
     "terminal.ansiBrightRed": "#ec2226",
-    "terminal.ansiBrightWhite": "#a2aabc",
-    "terminal.ansiBrightYellow": "#ebdc3a",
-    "terminal.ansiCyan": "#edddaf",
+    "terminal.ansiBrightWhite": "#DFDFDF",
+    "terminal.ansiBrightYellow": "#CCA700",
+    "terminal.ansiCyan": "#13F8FE",
     "terminal.ansiGreen": "#bae67e",
     "terminal.ansiMagenta": "#c3a6ff",
     "terminal.ansiRed": "#ec2226",
-    "terminal.ansiWhite": "#a2aabc",
-    "terminal.ansiYellow": "#ebdc3a",
-    "terminal.selectionBackground": "#8695b7",
-    "terminalCursor.background": "#ebdc3a",
-    "terminalCursor.foreground": "#ebdc3a",
+    "terminal.ansiWhite": "#DFDFDF",
+    "terminal.ansiYellow": "#CCA700",
+    "terminal.selectionBackground": "#8B9EB7",
+    "terminalCursor.background": "#0C13E7",
+    "terminalCursor.foreground": "#0C13E7",
 
     // Debug
     "debugToolBar.background": "#2f3b54",
@@ -366,7 +366,7 @@
     "settings.checkboxBackground": "#2f3b54",
     "settings.checkboxForeground": "#d7dce2",
     "settings.checkboxBorder": "#2f3b54",
-    "settings.textInputBackground": "#2f3b54",
+    "settings.textInputBackground": "#3C404E",
     "settings.textInputForeground": "#d7dce2",
     "settings.textInputBorder": "#2f3b54",
     "settings.numberInputBackground": "#2f3b54",
