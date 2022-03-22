@@ -270,23 +270,24 @@
     "panelSectionHeader.foreground": "#ebdc3a",
 
     // Status Bar colors
-    "statusBar.background": "#20064f",
-    "statusBar.foreground": "#8695b7",
-    "statusBar.border": "#20064f",
-    "statusBar.debuggingBackground": "#20064f",
-    "statusBar.debuggingForeground": "#8695b7",
-    "statusBar.noFolderBackground": "#20064f",
-    "statusBar.noFolderForeground": "#8695b7",
+    "statusBar.background": "#11141E",
+    "statusBar.foreground": "#8B9EB7",
+    "statusBar.border": "#11141E",
+    "statusBar.debuggingBackground": "#11141E",
+    "statusBar.debuggingForeground": "#8B9EB7",
+    "statusBar.noFolderBackground": "#11141E",
+    "statusBar.noFolderForeground": "#8B9EB7",
     "statusBarItem.activeBackground": "#2f3b54",
     "statusBarItem.hoverBackground": "#1d2433",
-    "statusBarItem.remoteBackground": "#20064f",
-    "statusBarItem.remoteForeground": "#8695b7",
+    "statusBarItem.prominentForeground": "#DFDFDF",
+    "statusBarItem.remoteBackground": "#11141E",
+    "statusBarItem.remoteForeground": "#8B9EB7",
 
     // Title Bar colors
-    "titleBar.activeBackground": "#20064f",
-    "titleBar.activeForeground": "#d7dce2",
-    "titleBar.inactiveBackground": "#20064f",
-    "titleBar.inactiveForeground": "#8695b7",
+    "titleBar.activeBackground": "#11141E",
+    "titleBar.activeForeground": "#DFDFDF",
+    "titleBar.inactiveBackground": "#1d2433",
+    "titleBar.inactiveForeground": "#8B9EB7",
     "titleBar.border": "#231622",
 
     // Menu Bar colors
