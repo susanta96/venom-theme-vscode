@@ -1,8 +1,8 @@
 {
-  "name": "hawkeye-theme-vscode",
-  "displayName": "Hawkeye Theme",
+  "name": "venom-theme-vscode",
+  "displayName": "Venom Theme",
   "version": "1.0.0",
-  "description": "a vscode theme built on hawkeye from MCU",
+  "description": "a vscode theme built on Venom from MCU",
   "publisher": "susanta96",
   "icon": "images/logo.png",
   "author": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/susanta96/hawkeye-theme-vscode"
+    "url": "https://github.com/susanta96/venom-theme-vscode"
   },
   "bugs": {
-    "url": "https://github.com/susanta96/hawkeye-theme-vscode/issues",
+    "url": "https://github.com/susanta96/venom-theme-vscode/issues",
     "email": "susant.vanu7278@gmail.com"
   },
-  "homepage": "https://github.com/susanta96/hawkeye-theme-vscode/blob/main/README.md",
+  "homepage": "https://github.com/susanta96/venom-theme-vscode/blob/main/README.md",
   "galleryBanner": {
-    "color": "#3d2153",
+    "color": "#11141E",
     "theme": "dark"
   },
   "engines": {
@@ -32,25 +32,26 @@
     "Themes",
     "Dark Theme",
     "color-theme",
-    "Hawkeye",
+    "Venom",
+    "DC",
     "MCU",
     "vscode-theme"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Hawkeye Theme",
+        "label": "Venom Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/hawkeye-color-theme.json"
+        "path": "./themes/venom-color-theme.json"
       }
     ]
   },
   "license": "MIT",
   "devDependencies": {
     "@babel/eslint-parser": "^7.17.0",
-    "eslint": "^8.10.0",
-    "eslint-config-prettier": "^8.4.0",
-    "prettier": "^2.5.1",
-    "vsce": "^2.6.7"
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.0",
+    "vsce": "^2.7.0"
   }
 }
