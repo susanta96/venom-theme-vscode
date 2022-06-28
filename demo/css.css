@@ -1,0 +1,12 @@
+.someClass {
+  font-family: sans-serif;
+}
+
+#someID {
+  --some-var: red;
+  background: var(--some-var);
+}
+
+.container > * {
+  color: aqua;
+}

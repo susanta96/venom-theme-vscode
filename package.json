@@ -25,6 +25,10 @@
   "engines": {
     "vscode": "^1.18.0"
   },
+  "scripts": {
+    "bundle": "vsce package",
+    "publish": "vsce publish"
+  },
   "categories": [
     "Themes"
   ],
