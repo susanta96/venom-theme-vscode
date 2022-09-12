@@ -57,7 +57,7 @@
 
     // Badge
     "badge.foreground": "#DFDFDF",
-    "badge.background": "#0C13E7",
+    "badge.background": "#c85b5b",
 
     // Progress bar
     "progressBar.background": "#ebdc3a",
@@ -129,11 +129,11 @@
     "tab.unfocusedHoverBackground": "#1d2433",
     "tab.hoverBorder": "#AAF5F6",
     "tab.unfocusedHoverBorder": "#AAF5F677",
-    "editorPane.background": "#1C1C1E",
+    "editorPane.background": "#11141E",
 
     // Editor colors
-    "editor.background": "#1C1C1E",
-    "editor.foreground": "#DFDFDF",
+    "editor.background": "#15171ef0", // Only Editor Backgroup different slightly
+    "editor.foreground": "#efefef",
     "editorLineNumber.foreground": "#8B9EB799",
     "editorLineNumber.activeForeground": "#8695b7",
     "editorCursor.background": "#1C1C1E",
@@ -147,9 +147,9 @@
     // "editor.selectionHighlightBorder": "#8B9EB7",
 
     // Editor word highlight colors
-    "editor.wordHighlightBackground": "#83549a99",
+    "editor.wordHighlightBackground": "#1C1C1E",
     // "editor.wordHighlightBorder": "#8695b7",
-    "editor.wordHighlightStrongBackground": "#83549a99",
+    "editor.wordHighlightStrongBackground": "#1C1C1E",
     // "editor.wordHighlightStrongBorder": "#ebdc3a",
 
     // Editor find/replace colors
@@ -159,7 +159,7 @@
     "editor.findMatchBorder": "#ebdc3a",
     // "editor.findMatchHighlightBorder": "#ebdc3a",
     // "editor.findRangeHighlightBorder": "#ebdc3a",
-    "editor.hoverHighlightBackground": "#83549a99",
+    "editor.hoverHighlightBackground": "#2b272e99",
     "editor.lineHighlightBackground": "#2f3b54",
     "editor.lineHighlightBorder": "#2f3b54",
     "editorLink.activeForeground": "#ebdc3a",
@@ -241,10 +241,10 @@
     "peekViewResult.lineForeground": "#d7dce2",
     "peekViewResult.matchHighlightBackground": "#ebdc3a33",
     "peekViewResult.selectionBackground": "#2f3b54",
-    "peekViewResult.selectionForeground": "#d7dce2",
+    "peekViewResult.selectionForeground": "#ebf0f7",
     "peekViewTitle.background": "#2f3b54",
-    "peekViewTitleDescription.foreground": "#8695b7",
-    "peekViewTitleLabel.foreground": "#8695b7",
+    "peekViewTitleDescription.foreground": "#c1c7d5",
+    "peekViewTitleLabel.foreground": "#c1c7d5",
 
     // Merge Conflicts
     "merge.currentHeaderBackground": "#edddaf77",
@@ -339,9 +339,9 @@
     "terminal.ansiRed": "#F14C4C",
     "terminal.ansiWhite": "#DFDFDF",
     "terminal.ansiYellow": "#CCA700",
-    "terminal.selectionBackground": "#8B9EB7",
-    "terminalCursor.background": "#0C13E7",
-    "terminalCursor.foreground": "#0C13E7",
+    "terminal.selectionBackground": "#DFDFDF",
+    "terminalCursor.background": "#c3a6ff",
+    "terminalCursor.foreground": "#c3a6ff",
 
     // Debug
     "debugToolBar.background": "#2f3b54",
