@@ -1,3 +1,6 @@
+<p align="center">
+  <img src='https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/logo.png' width="140px" style="border-radius: 10px" />
+</p>
 # Venom Theme for VS Code 
 
 VS code Theme For Developers as well as who loves customize their code editor.
@@ -35,4 +38,48 @@ VS code Theme For Developers as well as who loves customize their code editor.
 
 > Not too bright and not too subtle.
 
-![Preview](https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/logo.png)
+![Preview](https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/preview-theme.jpg)
+
+
+## Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Venom` - find the one by **Susanta Chakraborty** .
+3. Click **Install** to install it.
+4. Code > Preferences > Color Theme > **Venom Theme**
+5. Optional: Use the recommended settings below for best experience
+
+## Recommended Settings
+
+```json
+{
+  // This is all that matters
+  "workbench.colorTheme": "Venom Theme",
+  // The Cursive font is operator Mono with Liguatures on. it's $200 and you need to buy it to get the cursive. Dank Mono or Victor Mono are good alternatives .
+  "editor.fontFamily": "'Operator Mono Lig Book', 'Victor Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  // If your font supports Liguatures. I would highly suggest a Liguatures supported font.
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "files.autoSave": "onWindowChange",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.letterSpacing": 0.4,
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorBlinking": true,
+}
+```
+
+
+## Raise Issues
+
+This theme is new so if something is breaks, please open an issue. There are many languages and parts of VS Code I don't use, so let me know!
+
+These are the things we have control over. If you would like to change something, you can either open a PR and see if I'd like it added, or override the colours in your own settings.json file.
+
+
+[Learn about VSCode Theme](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
