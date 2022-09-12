@@ -28,6 +28,9 @@ VS code Theme For Developers as well as who loves customize their code editor.
     <a href="https://github.com/susanta96/venom-theme-vscode/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/susanta96/venom-theme-vscode?style=for-the-badge&colorA=252526&colorB=43A047&label=GitHub issues" alt="GitHub issues">
     </a>&nbsp;
+    <a href="https://github.com/susanta96/venom-theme-vscode/blob/main/CHANGELOG.md">
+      <img alt="GitHub Changelog" src="https://img.shields.io/github/license/susanta96/venom-theme-vscode?style=for-the-badge&colorA=252526&colorB=43A047&label=CHANGELOG" alt="CHANGELOG">
+    </a>
     <a href="https://github.com/susanta96/venom-theme-vscode/blob/main/LICENSE">
       <img alt="GitHub license" src="https://img.shields.io/github/license/susanta96/venom-theme-vscode?style=for-the-badge&colorA=252526&colorB=43A047&label=LICENSE" alt="LICENSE">
     </a>&nbsp;
@@ -37,6 +40,8 @@ VS code Theme For Developers as well as who loves customize their code editor.
 ## Preview of themes and colors
 
 > Not too bright and not too subtle.
+
+>[View Changelog](https://github.com/susanta96/venom-theme-vscode/blob/main/CHANGELOG.md)
 
 ![Preview](https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/preview-theme.jpg)
 
@@ -53,7 +58,6 @@ VS code Theme For Developers as well as who loves customize their code editor.
 
 ```json
 {
-  // This is all that matters
   "workbench.colorTheme": "Venom Theme",
   // The Cursive font is operator Mono with Liguatures on. it's $200 and you need to buy it to get the cursive. Dank Mono or Victor Mono are good alternatives .
   "editor.fontFamily": "'Operator Mono Lig Book', 'Victor Mono', 'monospace', monospace, 'Droid Sans Fallback'",
