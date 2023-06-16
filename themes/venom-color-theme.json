@@ -92,7 +92,7 @@
     "activityBarBadge.foreground": "#DFDFDF",
 
     // Side Bar
-    "sideBar.background": "#292929",
+    "sideBar.background": "#161922",
     "sideBar.foreground": "#DFDFDF",
     "sideBar.border": "#3C404E",
     "sideBarTitle.foreground": "#DFDFDF",
@@ -109,7 +109,7 @@
     "editorGroupHeader.noTabsBackground": "#3C404E",
     "editorGroupHeader.tabsBackground": "#11141E",
     "editorGroupHeader.tabsBorder": "#292929",
-    "editorGroup.emptyBackground": "#292929",
+    "editorGroup.emptyBackground": "#161922",
     "editorGroup.focusedEmptyBorder": "#292929",
 
     // Tabs
