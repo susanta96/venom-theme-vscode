@@ -2,7 +2,7 @@
   "name": "venom-theme-vscode",
   "displayName": "Venom Theme",
   "version": "1.0.0",
-  "description": "a vscode theme built on Venom from MCU",
+  "description": "A vscode theme built on Venom from MCU",
   "publisher": "susanta96",
   "icon": "images/logo.png",
   "author": {
@@ -52,10 +52,10 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@babel/eslint-parser": "^7.17.0",
-    "eslint": "^8.11.0",
-    "eslint-config-prettier": "^8.5.0",
-    "prettier": "^2.6.0",
-    "vsce": "^2.15.0"
+    "@babel/eslint-parser": "^7.22.5",
+    "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8",
+    "@vscode/vsce": "^2.19.0"
   }
 }
