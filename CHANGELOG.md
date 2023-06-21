@@ -9,6 +9,7 @@
 - Github Workflow added
 - Size reduced due to vscodeignore
 - Color changes --> Too bright
+- TS and JS support added properly
  
 #### v1.0.0 
 
