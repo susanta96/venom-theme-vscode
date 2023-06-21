@@ -1,7 +1,7 @@
 {
   "name": "venom-theme-vscode",
   "displayName": "Venom Theme",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A vscode theme built on Venom from MCU",
   "publisher": "susanta96",
   "icon": "images/logo.png",
