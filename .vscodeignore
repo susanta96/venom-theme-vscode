@@ -2,3 +2,17 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+.gitignore
+.gitattributes
+.yarn/**
+.yarn-meta
+.pnp.cjs
+.pnp
+.pnp.loader.mjs
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+build/**
+.eslintignore
+node_modules
+**/*.map
