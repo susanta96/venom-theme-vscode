@@ -26,7 +26,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 'lts/*'
-          cache: 'npm cache'
       - name: Install PNPM
         run: npm install -g pnpm
       - name: Install dependencies
