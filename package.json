@@ -26,7 +26,7 @@
     "vscode": "^1.18.0"
   },
   "scripts": {
-    "bundle": "vsce package",
+    "bundle": "vsce package --no-dependencies",
     "publish": "vsce publish"
   },
   "categories": [
