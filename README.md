@@ -28,7 +28,7 @@ VS code Theme For Developers as well as who loves customize their code editor.
 
 >[View Changelog](https://github.com/susanta96/venom-theme-vscode/blob/main/CHANGELOG.md)
 
-![Preview](https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/previe.JPG)
+![Preview](https://raw.githubusercontent.com/susanta96/venom-theme-vscode/main/images/preview.JPG)
 
 
 ## Installation
