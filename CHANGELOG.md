@@ -1,6 +1,14 @@
 ### Changelog 
 
  All notable changes to this project will be documented in this file. Dates are displayed in UTC.
+
+ #### v1.0.1
+
+> Jun 20, 2023
+
+- Github Workflow added
+- Size reduced due to vscodeignore
+- Color changes --> Too bright
  
 #### v1.0.0 
 
